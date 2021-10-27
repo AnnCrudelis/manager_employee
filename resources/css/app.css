@@ -1,0 +1,15 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+.background-image
+{
+    background-image: url('https://s3.wi-fi.ru/cp3o/tD2kqcKQHJuKghZhdz8U1qBg?response-content-type=image%2Fjpeg');
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
